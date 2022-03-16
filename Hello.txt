@@ -1,7 +1,3 @@
 Hello World!
 Changed to "hii"
 Dont know about it 
-<<<<<<< HEAD
-=======
-changed to oldies
->>>>>>> nothing
